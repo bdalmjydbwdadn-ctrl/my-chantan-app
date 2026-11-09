@@ -1,0 +1,252 @@
+{
+ "v": 1,
+ "at": "2026-11-08T23:25:30.377Z",
+ "incomplete": true,
+ "pendingKeysByLang": {
+  "ar": 0,
+  "fr": 0,
+  "es": 0
+ },
+ "a": [
+  {
+   "path": "src/components/SiteFooter.tsx",
+   "reason": "state-string",
+   "snippet": "name: \"TAFOKT N ODRAR\""
+  },
+  {
+   "path": "src/components/SiteFooter.tsx",
+   "reason": "state-string",
+   "snippet": "contactType: \"customer service\""
+  },
+  {
+   "path": "src/components/home/SocialButtons.tsx",
+   "reason": "unclassified",
+   "snippet": "Instagram TAFOKT N ODRAR",
+   "line": 31
+  },
+  {
+   "path": "src/components/home/SocialButtons.tsx",
+   "reason": "unclassified",
+   "snippet": "Facebook TAFOKT N ODRAR",
+   "line": 32
+  },
+  {
+   "path": "src/components/home/SocialButtons.tsx",
+   "reason": "unclassified",
+   "snippet": "TikTok TAFOKT N ODRAR",
+   "line": 33
+  },
+  {
+   "path": "src/components/home/SocialButtons.tsx",
+   "reason": "unclassified",
+   "snippet": "WhatsApp TAFOKT N ODRAR",
+   "line": 34
+  }
+ ],
+ "b": [],
+ "c": [
+  {
+   "path": "src/components/ErrorBoundary.tsx",
+   "reason": "class-component",
+   "snippet": "Something went wrong",
+   "line": 32
+  },
+  {
+   "path": "src/components/ErrorBoundary.tsx",
+   "reason": "class-component",
+   "snippet": "An unexpected error occurred. Try refreshing the page.",
+   "line": 34
+  },
+  {
+   "path": "src/components/ErrorBoundary.tsx",
+   "reason": "class-component",
+   "snippet": "Reload",
+   "line": 45
+  },
+  {
+   "path": "src/components/Header.tsx",
+   "reason": "unclassified-token",
+   "snippet": "Brand",
+   "line": 20
+  },
+  {
+   "path": "src/components/SiteFooter.tsx",
+   "reason": "unclassified-token",
+   "snippet": "application/ld+json",
+   "line": 16
+  },
+  {
+   "path": "src/components/home/Products.tsx",
+   "reason": "unclassified-token",
+   "snippet": "All",
+   "line": 47
+  },
+  {
+   "path": "src/components/home/Products.tsx",
+   "reason": "unclassified-token",
+   "snippet": "Products",
+   "line": 47
+  },
+  {
+   "path": "src/components/home/Products.tsx",
+   "reason": "unclassified-token",
+   "snippet": "Bundles",
+   "line": 47
+  },
+  {
+   "path": "src/components/home/RealResults.tsx",
+   "reason": "unclassified-token",
+   "snippet": "Before",
+   "line": 11
+  },
+  {
+   "path": "src/components/home/RealResults.tsx",
+   "reason": "unclassified-token",
+   "snippet": "After",
+   "line": 11
+  },
+  {
+   "path": "src/lib/chantan-ai.ts",
+   "reason": "excluded-dir-text",
+   "snippet": "AI request failed ()",
+   "line": 94
+  },
+  {
+   "path": "src/lib/chantan-media.ts",
+   "reason": "error-text",
+   "snippet": "Could not read the file.",
+   "line": 72
+  },
+  {
+   "path": "src/lib/chantan-media.ts",
+   "reason": "error-text",
+   "snippet": "Cancelled.",
+   "line": 105
+  },
+  {
+   "path": "src/lib/chantan-media.ts",
+   "reason": "error-text",
+   "snippet": "The video is taking too long — try videoStatus(jobId) later.",
+   "line": 124
+  },
+  {
+   "path": "src/lib/chantan-media.ts",
+   "reason": "error-text",
+   "snippet": "Please use an MP4 or MOV video (the normal phone camera format). Screen recordi…",
+   "line": 200
+  },
+  {
+   "path": "src/lib/chantan-media.ts",
+   "reason": "error-text",
+   "snippet": "Cancelled.",
+   "line": 205
+  },
+  {
+   "path": "src/lib/contact.ts",
+   "reason": "excluded-dir-text",
+   "snippet": "?text=",
+   "line": 16
+  },
+  {
+   "path": "src/lib/contact.ts",
+   "reason": "excluded-dir-text",
+   "snippet": "السلام عليكم، بغيت نطلب بثمن",
+   "line": 19
+  },
+  {
+   "path": "src/lib/shop.tsx",
+   "reason": "error-text",
+   "snippet": "ShopProvider missing",
+   "line": 13
+  },
+  {
+   "path": "src/lib/shop.tsx",
+   "reason": "excluded-dir-text",
+   "snippet": "PageView",
+   "line": 35
+  },
+  {
+   "path": "src/lib/shop.tsx",
+   "reason": "excluded-dir-text",
+   "snippet": "!function(w,d,t){w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=[\"…",
+   "line": 45
+  },
+  {
+   "path": "src/pages/ProductPage.tsx",
+   "reason": "unclassified-token",
+   "snippet": "ProductGroup",
+   "line": 20
+  },
+  {
+   "path": "src/pages/ProductPage.tsx",
+   "reason": "unclassified-token",
+   "snippet": "Product",
+   "line": 20
+  },
+  {
+   "path": "src/pages/ProductPage.tsx",
+   "reason": "unclassified-token",
+   "snippet": "application/ld+json",
+   "line": 37
+  },
+  {
+   "path": "src/data/productCopy.ts",
+   "reason": "unrendered-data-prop",
+   "snippet": "story: \"A gentle, sulfate-free wash that cleans \", \"Our daily face serum: a few golden drops\"",
+   "count": 3
+  },
+  {
+   "path": "src/data/productCopy.ts",
+   "reason": "unrendered-data-prop",
+   "snippet": "benefits: \"Nourishes dry and brittle hair\", \"Calms the scalp without stripping it\"",
+   "count": 9
+  },
+  {
+   "path": "src/data/productCopy.ts",
+   "reason": "unrendered-data-prop",
+   "snippet": "ingredients: \"Pure argan oil, aloe vera, glycerin, pla\", \"100% pure cold-pressed argan oil, vitami\"",
+   "count": 3
+  },
+  {
+   "path": "src/lib/brand-icons.ts",
+   "reason": "unrendered-data-prop",
+   "snippet": "instagram: \"M7.0301.084c-1.2768.0602-2.1487.264-2.91\"",
+   "count": 1
+  },
+  {
+   "path": "src/lib/brand-icons.ts",
+   "reason": "unrendered-data-prop",
+   "snippet": "facebook: \"M9.101 23.691v-7.98H6.627v-3.667h2.474v-\"",
+   "count": 1
+  },
+  {
+   "path": "src/lib/brand-icons.ts",
+   "reason": "unrendered-data-prop",
+   "snippet": "tiktok: \"M12.525.02c1.31-.02 2.61-.01 3.91-.02.08\"",
+   "count": 1
+  },
+  {
+   "path": "src/lib/contact.ts",
+   "reason": "unrendered-data-prop",
+   "snippet": "GENERAL_MESSAGE: \"السلام عليكم، بغيت نستفسر على منتجات TAF\"",
+   "count": 1
+  },
+  {
+   "path": "index.html",
+   "reason": "tab-title",
+   "snippet": "<title>TAFOKT N ODRAR — Moroccan Argan Care</title>"
+  },
+  {
+   "path": "src/",
+   "reason": "db-content",
+   "snippet": "tables read by the app: products, reviews, orders, newsletter_signups, return_requests, site_settings",
+   "count": 6
+  },
+  {
+   "path": "supabase/functions/_shared/cors.ts",
+   "reason": "server-messages",
+   "snippet": "2 text(s) across 1 edge function file(s)",
+   "count": 2
+  }
+ ]
+}
